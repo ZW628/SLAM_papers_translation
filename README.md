@@ -3,4 +3,4 @@
 
 1、2014_LOAM：Lidar Odometry and Mapping in Real-time
 
-2、2018_LeGO_LOAM Lightweight and Ground_Optimized Lidar Odometry and Mapping on Variable Terrain
+2、2018_LeGO_LOAM: Lightweight and Ground_Optimized Lidar Odometry and Mapping on Variable Terrain
