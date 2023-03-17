@@ -8,3 +8,5 @@
 3、2018_LeGO_LOAM: Lightweight and Ground_Optimized Lidar Odometry and Mapping on Variable Terrain
 
 4、2020_LIO_SAM_Tightly_coupled Lidar Inertial Odometry via Smoothing and Mapping
+
+5、2021_LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
